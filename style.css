@@ -1,20 +1,27 @@
+
+
 * {
 
         font-family: "Lucida Console", "Courier New", monospace;
-      
+      padding: 0%;
+      margin:0;
 }
 
 .canyon {
 
     position:relative;
-    
-    max-width: 100vw;
+    padding:0%;
+    max-width:100vw;
 }
 
-.serviceIntro {
 
+
+.serviceIntro {
+    background-color: rgb(196, 223, 239);
     position:absolute;
     left: 40vw;
-    top:20vh;
+    top:0;
+    padding:20%;
     padding-right: 1%;
+    padding-left: 3%;
 }
