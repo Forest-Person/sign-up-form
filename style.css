@@ -5,7 +5,7 @@
         font-family: "Lucida Console", "Courier New", monospace;
       padding: 0%;
       margin:0;
-      
+      box-sizing: border-box;
 }
 
 
@@ -34,6 +34,7 @@
     top:0%;
     bottom:66%;
     left:33%;
+    
     
     
 }
