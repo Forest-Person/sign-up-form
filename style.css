@@ -34,6 +34,9 @@
     top:0%;
     bottom:66%;
     left:33%;
+    padding:2%;
+    
+
     
     
     
@@ -48,11 +51,10 @@
     left: 33%;
     right:0;
     top:30%;
-    bottom:33%;
-    padding:10%;
-    padding-right: 1%;
-    padding-left: 3%;
-    box-shadow: 10px 10px 5px rgb(198, 13, 13);
+    bottom:34%;
+    padding:2%;
+    z-index:6;
+    box-shadow:0 2px 5px   #333;
     
 }
 
