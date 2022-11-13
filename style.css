@@ -17,9 +17,9 @@
     
     
     position: relative;
-    max-width:150vw;
+    width:50rem;
     max-height:100vh;
-    aspect-ratio: 1;
+    
     
     
     
@@ -36,6 +36,8 @@
     bottom:66%;
     left:33%;
     padding:2%;
+    font-size: 1.5rem;
+    
     
 }
 
@@ -50,6 +52,7 @@
     padding:2%;
     z-index:6;
     box-shadow:0 2px 5px   #333;
+    
     
 }
 
@@ -130,4 +133,9 @@ input{
 label{
 
     font-size: 2ch;
+}
+
+a {
+
+    color:rgb(77, 203, 203)
 }
